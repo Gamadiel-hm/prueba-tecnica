@@ -1,0 +1,30 @@
+.flex {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+thead {
+  font-family: monospace;
+  font-size: 1.2rem;
+}
+
+td {
+  font-family: monospace;
+  font-size: 1rem;
+}
+
+th,
+td {
+  min-width: 10rem;
+}
+
+section {
+  margin-bottom: 1rem;
+}
+
+tr:nth-child(odd).visibility {
+  background-color: #a7a1a1b2;
+}
+tr:nth-child(even).visibility {
+  background-color: #6d5e5eb2;
+}

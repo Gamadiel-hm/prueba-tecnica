@@ -1,0 +1,570 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Lewis",
+        "last": "Walker"
+      },
+      "location": {
+        "street": {
+          "number": 8328,
+          "name": "Pt Chevalier Road"
+        },
+        "city": "Hamilton",
+        "state": "Waikato",
+        "country": "New Zealand",
+        "postcode": 65539,
+        "coordinates": {
+          "latitude": "50.4655",
+          "longitude": "-117.4730"
+        },
+        "timezone": {
+          "offset": "+10:00",
+          "description": "Eastern Australia, Guam, Vladivostok"
+        }
+      },
+      "email": "lewis.walker@example.com",
+      "login": {
+        "uuid": "acfdb4d9-ac85-4543-af79-e052a1ececf5",
+        "username": "heavymeercat917",
+        "password": "zero",
+        "salt": "PXHvtqmy",
+        "md5": "391ead147d2f9b87e3e08f56b20e42d5",
+        "sha1": "b1ae0c082ffb057ef939422e6eff0bdf4c678cb3",
+        "sha256": "f542f6757edd1847c11cc2b7d40e19300e596eb4c794dbbcfe86c0a6742b4824"
+      },
+      "dob": {
+        "date": "1948-02-14T16:25:04.111Z",
+        "age": 75
+      },
+      "registered": {
+        "date": "2009-07-04T13:38:14.887Z",
+        "age": 13
+      },
+      "phone": "(609)-797-9325",
+      "cell": "(897)-986-6354",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+      },
+      "nat": "NZ"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Jacob",
+        "last": "Evans"
+      },
+      "location": {
+        "street": {
+          "number": 3736,
+          "name": "Cashel Street"
+        },
+        "city": "Napier",
+        "state": "Southland",
+        "country": "New Zealand",
+        "postcode": 55933,
+        "coordinates": {
+          "latitude": "-36.3551",
+          "longitude": "15.1160"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "jacob.evans@example.com",
+      "login": {
+        "uuid": "decedaa4-96c0-4821-917a-88f98801e433",
+        "username": "blueelephant985",
+        "password": "diamond",
+        "salt": "G9LGIce3",
+        "md5": "eb9a165401cbfa080fde953280fc33b6",
+        "sha1": "ae24d3ba0be048d4e95507b571662f403edc94a1",
+        "sha256": "03659a48618f7d25ca317b557f82bf8695f68027e9e672b449a6c431eb815e25"
+      },
+      "dob": {
+        "date": "1953-08-11T18:07:10.178Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2007-07-04T05:18:03.935Z",
+        "age": 15
+      },
+      "phone": "(959)-346-0735",
+      "cell": "(941)-039-3635",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/16.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+      },
+      "nat": "NZ"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Earl",
+        "last": "Steward"
+      },
+      "location": {
+        "street": {
+          "number": 3651,
+          "name": "E North St"
+        },
+        "city": "Perth",
+        "state": "South Australia",
+        "country": "Australia",
+        "postcode": 8746,
+        "coordinates": {
+          "latitude": "87.0102",
+          "longitude": "-123.1609"
+        },
+        "timezone": {
+          "offset": "+5:45",
+          "description": "Kathmandu"
+        }
+      },
+      "email": "earl.steward@example.com",
+      "login": {
+        "uuid": "42f8f57a-0c58-4e72-85e5-a68034dc53a9",
+        "username": "goldenladybug125",
+        "password": "mango",
+        "salt": "UZDySDHO",
+        "md5": "05fc054d401a1ea88bad38c47bba9dbd",
+        "sha1": "4e03f9445465df45fa0a6e107e87e56b76cdaf06",
+        "sha256": "b999e7a2b5bc30b9ab736885cfb25cd29b5b9e336b963fa9b64ceced974e60a5"
+      },
+      "dob": {
+        "date": "1999-10-18T03:06:35.452Z",
+        "age": 23
+      },
+      "registered": {
+        "date": "2014-01-09T21:53:08.605Z",
+        "age": 9
+      },
+      "phone": "03-3701-6923",
+      "cell": "0452-228-905",
+      "id": {
+        "name": "TFN",
+        "value": "313290737"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/77.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Maëlys",
+        "last": "Marchand"
+      },
+      "location": {
+        "street": {
+          "number": 1649,
+          "name": "Rue du Cardinal-Gerlier"
+        },
+        "city": "Poitiers",
+        "state": "Maine-et-Loire",
+        "country": "France",
+        "postcode": 83923,
+        "coordinates": {
+          "latitude": "65.3942",
+          "longitude": "87.9012"
+        },
+        "timezone": {
+          "offset": "+9:00",
+          "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+        }
+      },
+      "email": "maelys.marchand@example.com",
+      "login": {
+        "uuid": "d76b78a9-570f-49c6-ac02-bf358333cf18",
+        "username": "ticklishmeercat848",
+        "password": "ooooooo",
+        "salt": "6UU341US",
+        "md5": "2930454a4147f795d0d6a80c6e2e8155",
+        "sha1": "a3ebe8bf7a67a57ccd27a9713f62100503076c57",
+        "sha256": "c0e86b5511b2bf3b43d54778900bdd9892ef4199c818c02f615e934e2b5b765e"
+      },
+      "dob": {
+        "date": "1966-02-18T19:49:55.046Z",
+        "age": 57
+      },
+      "registered": {
+        "date": "2011-09-29T23:09:31.600Z",
+        "age": 11
+      },
+      "phone": "01-13-32-66-32",
+      "cell": "06-05-61-33-53",
+      "id": {
+        "name": "INSEE",
+        "value": "2660142991558 83"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Ava",
+        "last": "Lavoie"
+      },
+      "location": {
+        "street": {
+          "number": 9398,
+          "name": "Argyle St"
+        },
+        "city": "Cornwall",
+        "state": "Manitoba",
+        "country": "Canada",
+        "postcode": "O8R 3U8",
+        "coordinates": {
+          "latitude": "-35.3736",
+          "longitude": "-141.8847"
+        },
+        "timezone": {
+          "offset": "+9:00",
+          "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+        }
+      },
+      "email": "ava.lavoie@example.com",
+      "login": {
+        "uuid": "54f1b5cd-6ac9-45e2-8b9d-ebbeedcbad9d",
+        "username": "ticklishcat624",
+        "password": "alejandr",
+        "salt": "ON7GXp1x",
+        "md5": "e7e3aec869f605f4dd43c0605a80594e",
+        "sha1": "939621a10ac31b338b3e28db5a456e19bda5311a",
+        "sha256": "40dc5034dea9fe891234e13f853c55de757d7b4e593827b26e8d9f4706741c5c"
+      },
+      "dob": {
+        "date": "1991-02-18T09:25:03.130Z",
+        "age": 32
+      },
+      "registered": {
+        "date": "2004-01-06T02:30:09.750Z",
+        "age": 19
+      },
+      "phone": "J88 D43-3289",
+      "cell": "U07 M03-2774",
+      "id": {
+        "name": "SIN",
+        "value": "447102427"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Anja",
+        "last": "Jung"
+      },
+      "location": {
+        "street": {
+          "number": 858,
+          "name": "Feldstraße"
+        },
+        "city": "Schleiz",
+        "state": "Mecklenburg-Vorpommern",
+        "country": "Germany",
+        "postcode": 25127,
+        "coordinates": {
+          "latitude": "-21.8639",
+          "longitude": "-9.9964"
+        },
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
+      },
+      "email": "anja.jung@example.com",
+      "login": {
+        "uuid": "e12554aa-4418-4a26-9957-3ff298d29382",
+        "username": "redgorilla191",
+        "password": "workout",
+        "salt": "qcR7cM2V",
+        "md5": "dd1267c6437e945b8757d66971625690",
+        "sha1": "e318a6ee7d3c0c60f261f6e16a12fcac0514184f",
+        "sha256": "611ff43eb68b80fae2b2bd08728f70ae08fa0001339433f62269855251b3dda0"
+      },
+      "dob": {
+        "date": "2000-02-06T12:09:04.192Z",
+        "age": 23
+      },
+      "registered": {
+        "date": "2008-03-01T10:58:11.389Z",
+        "age": 15
+      },
+      "phone": "0930-3140645",
+      "cell": "0173-6569443",
+      "id": {
+        "name": "SVNR",
+        "value": "29 0602100 J 955"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/2.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Gerhardt",
+        "last": "Weigelt"
+      },
+      "location": {
+        "street": {
+          "number": 6999,
+          "name": "Mozartstraße"
+        },
+        "city": "Rabenau",
+        "state": "Nordrhein-Westfalen",
+        "country": "Germany",
+        "postcode": 94522,
+        "coordinates": {
+          "latitude": "70.0527",
+          "longitude": "158.3448"
+        },
+        "timezone": {
+          "offset": "+5:45",
+          "description": "Kathmandu"
+        }
+      },
+      "email": "gerhardt.weigelt@example.com",
+      "login": {
+        "uuid": "2320aaf8-c4d5-41d2-9d11-5cd16563dec0",
+        "username": "sadzebra456",
+        "password": "bob123",
+        "salt": "zA6QDg65",
+        "md5": "c8a4cb2eebcddadc20b91a29655020e6",
+        "sha1": "c6e57d62156c8087ad2c00d598558fcf20e0a412",
+        "sha256": "a233b429cef1422536d4606698d8bd0aa75a7280182825b40a87c990d9d310e8"
+      },
+      "dob": {
+        "date": "1950-11-09T05:55:51.583Z",
+        "age": 72
+      },
+      "registered": {
+        "date": "2021-02-11T13:09:44.314Z",
+        "age": 2
+      },
+      "phone": "0758-6905129",
+      "cell": "0171-6048964",
+      "id": {
+        "name": "SVNR",
+        "value": "52 081150 W 096"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Radogosta",
+        "last": "Gayvoronskiy"
+      },
+      "location": {
+        "street": {
+          "number": 1720,
+          "name": "Verhnya Gorova"
+        },
+        "city": "Dnipro",
+        "state": "Lvivska",
+        "country": "Ukraine",
+        "postcode": 13934,
+        "coordinates": {
+          "latitude": "51.2882",
+          "longitude": "-2.6238"
+        },
+        "timezone": {
+          "offset": "-3:30",
+          "description": "Newfoundland"
+        }
+      },
+      "email": "radogosta.gayvoronskiy@example.com",
+      "login": {
+        "uuid": "153bc795-7c44-4162-bff2-9bcab5628b75",
+        "username": "greenmeercat500",
+        "password": "jedi",
+        "salt": "TWUExc3G",
+        "md5": "244f7526a54b349b8e39d02f1c2580f3",
+        "sha1": "3c82d8b5688137b0507fbc6b5f402781ceb6452d",
+        "sha256": "4c39197e5f8e4cf2f49ee9768c7f6ce845cc1dcdd3da8085edcf516174b1370f"
+      },
+      "dob": {
+        "date": "1975-02-17T18:48:50.406Z",
+        "age": 48
+      },
+      "registered": {
+        "date": "2014-04-10T09:06:43.756Z",
+        "age": 9
+      },
+      "phone": "(067) N30-4782",
+      "cell": "(067) X75-4914",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/86.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+      },
+      "nat": "UA"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Sara",
+        "last": "Moore"
+      },
+      "location": {
+        "street": {
+          "number": 3802,
+          "name": "Park Avenue"
+        },
+        "city": "Ratoath",
+        "state": "Galway",
+        "country": "Ireland",
+        "postcode": 15674,
+        "coordinates": {
+          "latitude": "-89.4272",
+          "longitude": "-174.9906"
+        },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "sara.moore@example.com",
+      "login": {
+        "uuid": "76c21373-b8ea-45cc-bf06-7314c7240be0",
+        "username": "goldenpanda951",
+        "password": "message",
+        "salt": "u0qJdNWA",
+        "md5": "648ce45d72e48f4d2aebbd7ff15e67fa",
+        "sha1": "5e2509bf294ae6370e58d2ab06f135b37f84ca9d",
+        "sha256": "b48ddf220095a2eb867e4792c2d7122caaf7ceb830f8404f6c5b43bfd10aa499"
+      },
+      "dob": {
+        "date": "1977-04-03T04:25:11.662Z",
+        "age": 46
+      },
+      "registered": {
+        "date": "2011-10-25T00:22:21.993Z",
+        "age": 11
+      },
+      "phone": "021-117-5538",
+      "cell": "081-580-9109",
+      "id": {
+        "name": "PPS",
+        "value": "4705646T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "William",
+        "last": "White"
+      },
+      "location": {
+        "street": {
+          "number": 918,
+          "name": "Cedar St"
+        },
+        "city": "Brockton",
+        "state": "Nunavut",
+        "country": "Canada",
+        "postcode": "K4B 8D5",
+        "coordinates": {
+          "latitude": "22.4262",
+          "longitude": "129.0556"
+        },
+        "timezone": {
+          "offset": "-10:00",
+          "description": "Hawaii"
+        }
+      },
+      "email": "william.white@example.com",
+      "login": {
+        "uuid": "cfa61f40-f516-4370-a686-a8af7765e936",
+        "username": "purplemouse412",
+        "password": "cookies",
+        "salt": "TDzuZP75",
+        "md5": "f1add38e7fc3d5d1ea76267a6c3455ec",
+        "sha1": "5256d939b03fe97980bb162562b436d2b8d47fac",
+        "sha256": "238eb828fac9b61749eb0f64b2ad3366844bcb2d2fa741fe2fb64ee8b94be393"
+      },
+      "dob": {
+        "date": "1985-04-04T08:56:56.770Z",
+        "age": 38
+      },
+      "registered": {
+        "date": "2011-12-18T00:54:38.998Z",
+        "age": 11
+      },
+      "phone": "Z29 Z36-1664",
+      "cell": "Y38 O85-8278",
+      "id": {
+        "name": "SIN",
+        "value": "582695862"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/15.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+      },
+      "nat": "CA"
+    }
+  ],
+  "info": {
+    "seed": "2d7835bcbecc750e",
+    "results": 10,
+    "page": 1,
+    "version": "1.4"
+  }
+}
